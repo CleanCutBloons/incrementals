@@ -1,0 +1,10 @@
+@font-face {
+  font-family: GameFont;
+  src: url("Comfortaa-VariableFont_wght.ttf");
+}
+* {
+  font-family: GameFont;
+}
+body {
+  background-color: red;
+}
