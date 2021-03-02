@@ -1,4 +1,0 @@
-var points = 1;
-while(points < 100){
-  points += 11;
-}
