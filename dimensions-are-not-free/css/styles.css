@@ -1,7 +1,7 @@
 @font-face {
-  font-family: Comfortaa;
-  src: url(Comfortaa-VariableFont_wght.ttf);
+  font-family: GameFont;
+  src: url("Comfortaa-VariableFont_wght.ttf");
 }
 body {
-  font-family: Comfortaa;
+  font-family: GameFont;
 }
