@@ -1,3 +1,4 @@
 # incrementals
 This is the place to find all my incremental games.
-Play them at `cleancutbloons.github.io/incrementals/`*`projectname`*.
+
+[Dimensions Are Not Free](https://cleancutbloons.github.io/incrementals/dimensions-are-not-free)
