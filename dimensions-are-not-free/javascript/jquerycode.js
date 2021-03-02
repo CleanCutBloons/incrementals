@@ -1,2 +1,2 @@
-var points = 0;
+var points = 10;
 $("span.points").text(points);
