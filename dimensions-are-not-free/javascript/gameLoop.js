@@ -1,4 +1,6 @@
-var gameLoop = function(){
+setup = function(){
+  frameRate(20);
+};
+draw = function(){
   points += 0.05;
 };
-setInterval(gameLoop, 50);
