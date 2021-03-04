@@ -1,1 +1,3 @@
-$("span.points").text(points);
+while(true){
+  $("span.points").text(points);
+}
