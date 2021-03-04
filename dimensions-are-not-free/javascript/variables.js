@@ -1,2 +1,2 @@
-var points = 1;
-var normalDimensions = [[0, 1, 0],[1, 100, 0],[2, 100000, 0]
+var points = new Decimal(1);
+var normalDimensions = [[0, new Decimal(1), 0],[1, new Decimal(100), 0],[2, new Decimal("1e5"), 0],[3, new Decimal("1e9")]]
