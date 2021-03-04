@@ -4,7 +4,7 @@ var setup = function(){
 var draw = function(){
   var points = player.points;
   var normalDimensions = player.normalDimensions;
-  points += 0.05;
+  points.add(0.05);
   player.points = points;
   player.normalDimensions = player.normalDimensions;
   jQuery(player);
