@@ -1,6 +1,6 @@
 var jQuery = function(player){
   Decimal.toExpPos = 6;
-  $("span.points").text(player.points.toString());
+  $("span.points").text(displayExp(player.points));
   $("span#nd1Amount").text(displayExp(player.normalDimensions[0][2]));
   $("span#nd2Amount").text(displayExp(player.normalDimensions[1][2]));
   $("span#nd3Amount").text(displayExp(player.normalDimensions[2][2]));
