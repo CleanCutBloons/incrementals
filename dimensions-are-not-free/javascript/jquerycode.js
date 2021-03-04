@@ -1,5 +1,5 @@
 var jQuery = function(){
-  Decimal.set({ toExpPos: 6 })
+  Decimal.toExpPos = 6;
   $("span.points").text(points.toString());
   $("span#nd1Amount").text(normalDimensions[0][2]);
   $("span#nd2Amount").text(normalDimensions[1][2]);
