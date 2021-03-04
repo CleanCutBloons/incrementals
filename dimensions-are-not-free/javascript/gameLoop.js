@@ -4,4 +4,5 @@ var setup = function(){
 var points = 1;
 var draw = function(){
   points += 0.05;
+  jQuery();
 };
