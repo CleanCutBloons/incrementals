@@ -1,3 +1,3 @@
 while(true){
-  $("span.points").text(points);
+  $("span.points").text(Math.round(points));
 }
